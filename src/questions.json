@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter",
+    "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Which of the following authors wrote the famous novel 'To Kill a Mockingbird'?",
+    "answer": "Harper Lee",
+    "options": ["F. Scott Fitzgerald", "Harper Lee", "Jane Austen", "J.K. Rowling"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au",
+    "options": ["Ag", "Au", "Hg", "Pb"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Who painted the famous painting 'The Starry Night'?",
+    "answer": "Vincent van Gogh",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Claude Monet", "Pablo Picasso"],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra"
+  }
+]
