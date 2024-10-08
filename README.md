@@ -61,9 +61,9 @@ The app will now be running locally on [http://localhost:3000](http://localhost:
 2. Answer the multiple-choice questions. After each answer, feedback will be provided.
 3. At the end of the quiz, your total score will be displayed along with a **QR code**.
 4. Scan the QR code to view your score.
-![Snap_Count](https://github.com/user-attachments/assets/955a8c14-a3d5-42ac-ad93-2c04b314eafb)
+![Snap_Count](https://github.com/user-attachments/assets/b84278ff-6cf9-47c4-82d6-4ea5e93f2da5)
 
-![Snap_Count](https://github.com/user-attachments/assets/a08c6e31-8e80-40e6-9d98-a403551ef19f)
+![Snap_Count](https://github.com/user-attachments/assets/fd89dd9a-e89b-40b7-b6f1-25e6cd781210)
 
 
 ## Project Structure
